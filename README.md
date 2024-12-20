@@ -1,6 +1,6 @@
 # README
 
-The purpose of personal github page, j622amilah, is to present my Work related accomplishments and share Data Science related notes and writing.
+The purpose of personal github page, j622amilah, is to present my work related accomplishments and share Data Science related notes and writing.
 
 
 ## Work professional accomplishments
